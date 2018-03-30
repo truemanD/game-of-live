@@ -16,7 +16,7 @@
 
 2. build project
     ```bash
-    cd gameoflive
+    cd game-of-live
     mvn clean package
     ```
 
