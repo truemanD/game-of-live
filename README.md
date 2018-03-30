@@ -1,6 +1,6 @@
 # Game of live
 
-![logo](offline.jpg)
+![logo](/src/main/resources/offline.jpg)
 
 ## Requerements:
 
